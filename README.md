@@ -18,9 +18,5 @@ pip install -t requirements.txt
 then run the manage.py file 
 
 ```pytohn
-python manage.py runserver localhost:5000
+python manage.py runserver 
 ```
-
-
-I use the localhost port 5000 because the react build run on localhost 5000 port.
-
